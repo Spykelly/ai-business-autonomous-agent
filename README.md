@@ -36,3 +36,15 @@ Example cycle:
 5. Optimize next actions
 
 ## Sample Output
+Input: Trending product - Lipstick AZTK Sentiment: Positive (78%)
+Generated Content: "Son này đang hot cực..."
+Engagement Score: 8.2/10 Optimization: Adjust tone to emotional
+## Estimated Usage
+
+- Long-context reasoning
+- Multi-agent coordination
+- Estimated daily usage: 20M–100M tokens
+
+## Status
+
+Early prototype – currently testing agent workflow and scaling strategy.
