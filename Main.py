@@ -1,3 +1,4 @@
+# AI Autonomous Agent Prototype
 import random
 
 def analyze_market():
